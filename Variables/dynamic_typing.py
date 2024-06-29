@@ -8,3 +8,22 @@ print(variable , type(variable))
 
 
 # lets set this in a way.
+
+
+
+variable = 74
+print(variable)
+
+variable = 3.14
+print(variable)
+
+variable = True
+print(variable)
+
+variable = 'sakib'
+print(variable)
+
+
+variable = ['this list contain the name of my friend'] 
+
+print(variable)
