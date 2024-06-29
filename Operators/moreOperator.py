@@ -16,7 +16,7 @@ print(product_a_b)
 print(product_a_b // c)
 print(a ** b)
 print(b%c)
- 
+
 
 
 
