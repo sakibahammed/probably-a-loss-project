@@ -27,3 +27,10 @@ print(variable)
 variable = ['this list contain the name of my friend'] 
 
 print(variable)
+
+
+# Is dynamically typing a good idea?
+
+
+# Nahhh, It makes the variable type unpredictable
+
