@@ -4,3 +4,7 @@ variable = 10
 print(variable , type(variable))
 variable = 'what the heck is this'
 print(variable , type(variable))
+
+
+
+# lets set this in a way.
