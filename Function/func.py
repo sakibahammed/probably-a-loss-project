@@ -4,5 +4,3 @@ def greet():
 
 
 greet()
-greet()
-greet()
