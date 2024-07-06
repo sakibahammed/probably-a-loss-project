@@ -15,3 +15,6 @@ twoSmm(1,2)
 def three_sum(a,b,c):
     print(a+b+c)
 three_sum(1,2,4)
+
+
+
