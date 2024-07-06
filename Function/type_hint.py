@@ -13,3 +13,6 @@ print(type(total))
 def greet(name :str) -> None:
     print('hello')
     return None
+
+
+
