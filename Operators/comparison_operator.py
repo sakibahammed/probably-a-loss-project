@@ -19,3 +19,5 @@ def check_less(x,y):
 
 equalOrNotEqual = check_not_equal(1,2)
 print(equalOrNotEqual)
+print(equalOrNotEqual)
+print(equalOrNotEqual)
