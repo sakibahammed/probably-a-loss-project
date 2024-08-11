@@ -13,7 +13,15 @@ def check_greater_than_or_equal(x,y):
 def check_less(x,y):
     return x<y
 
+def check_shadhinota(x):
+    if x==2:
+        return "we are shadhin"
 
+
+
+print(check_shadhinota(2))
+    
+    
 
 
 
