@@ -15,3 +15,4 @@ def discount_given(age:int)->bool:
     else : return False
     
 print(discount_given(29))
+
